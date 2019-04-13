@@ -46,6 +46,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# temp .docx
+~*
+
 .idea
 _notes
 *.fpc
