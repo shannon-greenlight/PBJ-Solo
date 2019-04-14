@@ -56,3 +56,5 @@ _notes
 *.autosave
 pbj_solo.csv
 schematic.csv
+
+CAM/*
